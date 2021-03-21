@@ -1,6 +1,5 @@
-// An interface is a completely "abstract class" that is used to group related methods with empty bodies
-// Understand interface as a list of compulsory methods(along with their signatures) to be defined when you implement a
-// given interface
+// Understand interface as a list of compulsory methods(along with their signatures) to be defined
+// when you implement a given interface
 // Interface methods are by default abstract and public
 // Interface attributes are by default public, static and final
 
